@@ -22,6 +22,7 @@ gem 'high_voltage', '~> 3.0'
 gem 'pg'
 gem 'slim-rails'
 gem 'carrierwave'
+gem 'mini_magick'
 group :development do
   gem 'better_errors'
   gem 'rails_layout'
